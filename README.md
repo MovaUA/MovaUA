@@ -1,4 +1,4 @@
-### Hi there, I'm Valeriy Moclhanov - aka [MovaUA][website] 👋
+### Hi there, I'm Valeriy Molchanov - aka [MovaUA][website] 👋
 
 ## I'm a Husband, Father and Developer!
 - 🔭 I’m currently working at [Debriefing Software][debriefingSoftwareSite]
