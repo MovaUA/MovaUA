@@ -1,9 +1,10 @@
-### Hi there, I'm Valeriy Moclhanov - aka [MovaUA][website] 👋
+### Hi there, I'm Valeriy Molchanov - aka [MovaUA][website] 👋
 
 ## I'm a Husband, Father and Developer!
-- 🔭 I’m currently working at [Debriefing Software][debriefingSoftwareSite]
-- 🌱 At my spare time I’m working on an interesting startup - comming soon 🤣
-- 🍀 I love technologies and languagies
+
+- 🔭 I’m currently working at [Debriefing Software][debriefingsoftwaresite]
+- 🌱 At my spare time I’m working on an interesting startup - coming soon 🤣
+- 🍀 I love technologies and languages
 
 <!-- ### Languages and Tools: -->
 
@@ -31,4 +32,4 @@
 <img align="left" alt="MovaUA's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MovaUA&show_icons=true&hide_border=true" />
 
 [website]: https://github.com/MovaUA
-[debriefingSoftwareSite]: https://debriefingsoftware.com
+[debriefingsoftwaresite]: https://debriefingsoftware.com
